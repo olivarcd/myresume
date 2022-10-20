@@ -2,6 +2,9 @@ style
 ul.a {
     list-style-type: circle;
   }
+ul.b {
+    list-style-type: square;
+  }
 body {
     background-color: gray;
   }
@@ -10,7 +13,7 @@ body {
     color: black;
     text-align: left;
   }
-  
+
   p {
     font-family: "Lucida Console", "Courier New", monospace;
     font-size: 5px;
