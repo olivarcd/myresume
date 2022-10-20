@@ -5,6 +5,14 @@ ul.a {
 ul.b {
     list-style-type: square;
   }
+  .tab {
+    display: inline-block;
+    margin-left: 40px;
+}
+.tab2 {
+    display: inline-block;
+    margin-left: 110px;
+}
 body {
     background-color: #f6f6f6;
   }
